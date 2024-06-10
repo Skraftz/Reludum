@@ -5,8 +5,8 @@ body {
 }
 
 
-.whotext {width: 60%;margin-right:5%;margin-left:5%}
-.whoimg {width: 20%;margin-left: 5%;margin-right: 5%}
+.whotext {width: 60%;margin-right:5%;margin-left:5%;}
+.whoimg {width: 20%;margin-left: 5%; height:fit-content; align-self:center; margin-right: 5%;}
 .who {
     display: flex;
     justify-content: center;
